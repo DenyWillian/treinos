@@ -1,0 +1,4 @@
+Nome: Deny, Matrícula: 4234223142315, Curso: Informática, Ano: 2º ano, Turno: Matutino
+Nome: retwt, Matrícula: 31243412, Curso: Informática, Ano: 2º ano, Turno: Matutino
+Nome: sasa, Matrícula: 31233, Curso: Informática, Ano: 2º ano, Turno: Matutino, Tipo: Aluno
+Nome: d4edede, Disciplina: Física, Senha: wqwq, Matrícula: 1234124, Tipo: Professor

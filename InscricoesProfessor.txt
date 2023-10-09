@@ -1,0 +1,2 @@
+Nome: deww, Disciplina: Física, Senha: dfewerf, Matrícula: 232142, Tipo: Professor
+Nome: d3d34, Disciplina: Física, Senha: fvert, Matrícula: 345235, Tipo: Professor
